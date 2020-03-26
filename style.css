@@ -1,18 +1,22 @@
 #contact{
-    background-color: rgb(65, 150, 179);
+    background-color: black;
     background-blend-mode: color
 
 }
+#H2{
+    border-radius: 0px;
+}
 body{
     background-image: url("data.jpg");
-    background-color: #a8b4d4;
-    background-size: default;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     
 }
 h1 {
     font-family: "Comic Sans MS", cursive, sans-serif;
     background-color:  rgb(65, 150, 179);
     border-radius: 20px;
+    
 }
 ul {
     list-style-type: none;
@@ -56,5 +60,11 @@ p{
     color:white;
     font-family: "Comic Sans MS", cursive, sans-serif;
 }
+p.contact{
+    font-size:  20px;
+    color:white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
  font-style: italic;
 	 font-family: 'Squada One', cursive;
