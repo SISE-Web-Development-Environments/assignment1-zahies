@@ -15,7 +15,7 @@ body{
 }
 h1 {
     font-family: "Comic Sans MS", cursive, sans-serif;
-    background-color:  rgb(65, 150, 179);
+    background-color:  rgb(155, 93, 155);
     border-radius: 20px;
     
 }
@@ -44,7 +44,7 @@ ul {
     background-color: #333;
 }
     .active {
-    background-color: rgb(65, 150, 179);
+    background-color: rgb(155, 93, 155);
 }
 .sticky {
   position: fixed;
